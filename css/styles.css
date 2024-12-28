@@ -1,4 +1,13 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: ;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
 }
