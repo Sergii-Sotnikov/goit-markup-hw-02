@@ -13,6 +13,7 @@ a {
 }
 
 .title {
+font-family: 'Roboto';
 color: #FFFFFF;
 font-size: 56px;
 font-weight: 700;
@@ -21,10 +22,49 @@ line-height: 60px;
 }
 
 .logo-first {
-
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 18px;
+color: #4D5AE5;
+letter-spacing: 3%;
+line-height: 21px;
 }
+
 .logo-seconde {
-  
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 18px;
+color: #2E2F42;
+letter-spacing: 3%;
+line-height: 21px;
 }
 
+.a-nav {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #2E2F42;
+  letter-spacing: 2%;
+  line-height: 24px;
+}
 
+.a-nav:hover {
+  color: #404BBF;
+}
+
+.a-address {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #434455;
+  letter-spacing: 2%;
+  line-height: 24px;
+}
+
+.a-address:hover{
+  color: #404BBF;
+}
+
+.a-address:focus {
+  color: #404BBF;
+}
