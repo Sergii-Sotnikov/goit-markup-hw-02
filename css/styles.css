@@ -8,11 +8,23 @@ ul {
     list-style-type: none;
 }
 
-.link {
+a {
   text-decoration: none;
 }
 
-.page-title {
+.title {
+color: #FFFFFF;
+font-size: 56px;
+font-weight: 700;
+letter-spacing: 2%;
+line-height: 60px;
+}
+
+.logo-first {
 
 }
+.logo-seconde {
+  
+}
+
 
