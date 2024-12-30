@@ -19,6 +19,7 @@ font-size: 56px;
 font-weight: 700;
 letter-spacing: 2%;
 line-height: 60px;
+background-color: #2E2F42;
 }
 
 .logo-first {
@@ -67,4 +68,30 @@ line-height: 21px;
 
 .a-address:focus {
   color: #404BBF;
+}
+
+.button {
+    font-family: 'Roboto';
+      font-weight: 400;
+      font-size: 16px;
+      color: #FFFFFF;
+      background-color: #4D5AE5;
+      letter-spacing: 4%;
+      line-height: 24px;
+}
+
+.button:hover {
+  background-color: #404BBF;
+}
+
+.button:active {
+  color: #FFFFFF;
+}
+
+.header-two {
+    font-family: 'Roboto';
+      font-weight: 700;
+      font-size: 36px;
+      color: #2E2F42;
+      letter-spacing: 2%;
 }
