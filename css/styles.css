@@ -4,12 +4,37 @@ body {
     background-color: #FFFFFF;
 }
 
+
 ul {
     list-style-type: none;
 }
 
 a {
   text-decoration: none;
+}
+
+h2 {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 36px;
+  color: #2E2F42;
+  letter-spacing: 2%;
+}
+
+h3 {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  color: #2E2F42;
+  letter-spacing: 2%;
+}
+
+p {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #434455;
+  line-height: 24px;
+  letter-spacing: 2%;
 }
 
 .title {
@@ -55,7 +80,6 @@ line-height: 21px;
 
 .a-address {
   font-family: 'Roboto';
-  font-weight: 400;
   font-size: 16px;
   color: #434455;
   letter-spacing: 2%;
@@ -72,13 +96,15 @@ line-height: 21px;
 
 .button {
     font-family: 'Roboto';
-      font-weight: 400;
       font-size: 16px;
       color: #FFFFFF;
       background-color: #4D5AE5;
       letter-spacing: 4%;
       line-height: 24px;
+      cursor: pointer;
 }
+
+
 
 .button:hover {
   background-color: #404BBF;
@@ -88,10 +114,27 @@ line-height: 21px;
   color: #FFFFFF;
 }
 
-.header-two {
-    font-family: 'Roboto';
-      font-weight: 700;
-      font-size: 36px;
-      color: #2E2F42;
-      letter-spacing: 2%;
+.section-team {
+  background-color: #F4F4FD;
+}
+
+.team-card{
+  background-color: #FFFFFF;
+}
+
+footer {
+  background-color: #2E2F42;
+}
+
+.logo-seconde-footer {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 18px;
+  color: #F4F4FD;
+  letter-spacing: 3%;
+  line-height: 21px;
+}
+
+.p-footer {
+  color: #F4F4FD;
 }
