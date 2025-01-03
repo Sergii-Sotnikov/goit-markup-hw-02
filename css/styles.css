@@ -23,7 +23,7 @@ a {
 }
 
 .logo-second {
-  font-family: 'Raleway';
+  font-family: 'Raleway',sans-serif;
   font-weight: 700;
   font-size: 18px;
   color: #2E2F42;
@@ -33,12 +33,13 @@ a {
 }
 
 .logo-second-footer {
-  font-family: 'Raleway';
+  font-family: 'Raleway',sans-serif;
   font-weight: 700;
   font-size: 18px;
   color: #F4F4FD;
   letter-spacing: 0.03em;
   line-height: 1.17;
+  text-transform: uppercase;
 }
 
 .a-nav {
@@ -68,18 +69,18 @@ a {
   font-style: normal;
 }
 
-.mail-tel-address {
+.mailtel-address {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.mail-address:hover {
+.mailtel-address:hover {
   color: #404bbf
 }
 
-.mail-address:focus {
+.mailtel-address:focus {
   color: #404BBF;
 }
 
